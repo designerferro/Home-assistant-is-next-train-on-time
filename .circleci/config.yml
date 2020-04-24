@@ -13,7 +13,7 @@ jobs:
       - checkout
       - sonarcloud/scan
 workflows:
-  main:
+  master:
     jobs:
       - build:
           context: SonarCloud
