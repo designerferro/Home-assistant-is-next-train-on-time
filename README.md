@@ -2,6 +2,8 @@
 "Is the next train on time" scraper for Home-assistant
 ======================================================
 
+NOTE: This no longer works and I am not maintaining it. Please use the Home-assistant add on for Open Data.
+
 This utility tells if the next train is on time. 
 
 Gets the result from searching for next train from a specified origin to a pretended destination.
